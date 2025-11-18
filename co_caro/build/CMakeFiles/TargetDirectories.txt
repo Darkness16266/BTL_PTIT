@@ -1,0 +1,3 @@
+D:/BTL_C++_PTIT/co_caro/build/CMakeFiles/caro.dir
+D:/BTL_C++_PTIT/co_caro/build/CMakeFiles/edit_cache.dir
+D:/BTL_C++_PTIT/co_caro/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,37 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Caro with SFML",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "src/main.cpp",
+        // "src/game.cpp",
+        // "src/board.cpp",
+        // "src/player.cpp",
+        // "src/display.cpp",
+        // "src/input.cpp",
+        // "src/file_manager.cpp",
+        // "src/menu.cpp",
+        // "src/sound.cpp",
+        // "src/gadget.cpp",
+        "-o",
+        "${workspaceFolder}/src/main.exe",
+        "-std=c++17",
+        "-ID:/BTL_C++_PTIT/SFML-3.0.2/include",
+        "-LD:/BTL_C++_PTIT/SFML-3.0.2/lib",
+        "-lsfml-graphics",
+        "-lsfml-window",
+        "-lsfml-system",
+        "-lsfml-audio",
+        "-lsfml-network"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}

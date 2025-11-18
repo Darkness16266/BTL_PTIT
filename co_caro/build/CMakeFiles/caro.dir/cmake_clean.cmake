@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/caro.dir/resource.rc.obj"
+  "CMakeFiles/caro.dir/src/AIplayer.cpp.obj"
+  "CMakeFiles/caro.dir/src/AIplayer.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/board.cpp.obj"
+  "CMakeFiles/caro.dir/src/board.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/display.cpp.obj"
+  "CMakeFiles/caro.dir/src/display.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/event_input.cpp.obj"
+  "CMakeFiles/caro.dir/src/event_input.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/file_manager.cpp.obj"
+  "CMakeFiles/caro.dir/src/file_manager.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/gadget.cpp.obj"
+  "CMakeFiles/caro.dir/src/gadget.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/game.cpp.obj"
+  "CMakeFiles/caro.dir/src/game.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/human_player.cpp.obj"
+  "CMakeFiles/caro.dir/src/human_player.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/input.cpp.obj"
+  "CMakeFiles/caro.dir/src/input.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/main.cpp.obj"
+  "CMakeFiles/caro.dir/src/main.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/menu.cpp.obj"
+  "CMakeFiles/caro.dir/src/menu.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/music_game.cpp.obj"
+  "CMakeFiles/caro.dir/src/music_game.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/player.cpp.obj"
+  "CMakeFiles/caro.dir/src/player.cpp.obj.d"
+  "CMakeFiles/caro.dir/src/sound.cpp.obj"
+  "CMakeFiles/caro.dir/src/sound.cpp.obj.d"
+  "caro.exe"
+  "caro.exe.manifest"
+  "caro.pdb"
+  "libcaro.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX RC)
+  include(CMakeFiles/caro.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
