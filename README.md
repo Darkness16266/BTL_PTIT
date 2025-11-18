@@ -15,8 +15,7 @@ Run the included ```caro.exe``` file or build from source using cmake:
     
 ## Demo (YouTube Video)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MzsWvBhANNs?si=0vi326X4iYGSe6qu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![YouTube](https://img.youtube.com/vi/MzsWvBhANNs/0.jpg)](https://www.youtube.com/watch?v=MzsWvBhANNs)
 
 ## License
 
